@@ -1,0 +1,13 @@
+The previous rewrite attempt did not preserve the meaning of the original text.  
+Your task is to try again.  
+
+Here is the original rewriting instruction:  
+$prompt  
+
+Here is the last (incorrect) output:  
+$output  
+
+Rewrite the text again, this time strictly preserving the meaning of the original while following the style instructions from the prompt.  
+Do not add, remove, or change information. Only adjust style as requested.  
+
+OUTPUT: Only the corrected rewritten text.

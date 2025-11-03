@@ -1,0 +1,8 @@
+Your task is to rewrite the following text while preserving its original meaning, intent and content.
+Do **not** change, add, or remove any information.
+
+Text:
+
+$text
+
+Output: Only the rewritten text.
