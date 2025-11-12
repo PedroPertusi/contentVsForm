@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/data/full
+/data/model_*
+/data/rewrites
+/embeddings/no_desc/
+
+.DS_Store
+
+/tables
