@@ -1,0 +1,11 @@
+Rewrite the following essay by changing only its style (not its content) so that it matches a **high SAT style level (score 6)** in vocabulary, sentence structure, and mechanics.
+Specifically, rewrite the text, while maintaining all the content intact, such that it:
+- exhibits **skillful use of language**, with varied, precise, and appropriate vocabulary;
+- demonstrates **meaningful variety in sentence structure**, with fluent, well-controlled sentences;
+- is **almost entirely free of errors** in grammar, usage, and mechanics, so that any minor errors do not distract or interfere with meaning.
+
+Remember: do not change the ideas, arguments, or examples. Only change wording, sentence structure, and correctness.
+
+ESSAY:
+
+$ESSAY_TEXT

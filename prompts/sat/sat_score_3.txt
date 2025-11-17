@@ -1,0 +1,11 @@
+Rewrite the following essay by changing only its style (not its content) so that it matches a **developing SAT style level (score 3)** in vocabulary, sentence structure, and mechanics.
+Specifically, rewrite the text, while maintaining all the content intact, such that it:
+- uses **basic and often repetitive vocabulary**, sometimes imprecise or slightly inappropriate;
+- relies heavily on **simple and repetitive sentence structures**, with attempts at more complex sentences that are often awkward;
+- contains **frequent errors** in grammar, usage, and mechanics that distract the reader and sometimes blur or weaken the meaning, though the main ideas remain mostly understandable.
+
+Remember: do not change the ideas, arguments, or examples. Only change wording, sentence structure, and correctness.
+
+ESSAY:
+
+$ESSAY_TEXT

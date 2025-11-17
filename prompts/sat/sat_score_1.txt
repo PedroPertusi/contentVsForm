@@ -1,0 +1,11 @@
+Rewrite the following essay by changing only its style (not its content) so that it matches a **lowest SAT style level (score 1)** in vocabulary, sentence structure, and mechanics.
+Specifically, rewrite the text, while maintaining all the content intact, such that it:
+- displays **fundamental problems in vocabulary**, with extremely limited or frequently inappropriate word choice that sometimes results in unclear or confusing statements;
+- demonstrates **severe flaws in sentence structure**, with pervasive fragments, run-ons, and sentences that are often very hard to parse;
+- contains **pervasive errors** in grammar, usage, and mechanics that persistently interfere with meaning and regularly make the text difficult or impossible to understand.
+
+Remember: do not change the ideas, arguments, or examples. Only change wording, sentence structure, and correctness.
+
+ESSAY:
+
+$ESSAY_TEXT

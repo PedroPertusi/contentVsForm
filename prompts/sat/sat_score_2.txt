@@ -1,0 +1,11 @@
+Rewrite the following essay by changing only its style (not its content) so that it matches a **very weak SAT style level (score 2)** in vocabulary, sentence structure, and mechanics.
+Specifically, rewrite the text, while maintaining all the content intact, such that it:
+- uses **very limited and often vague vocabulary**, with word choices that are regularly imprecise or inappropriate;
+- shows **serious problems in sentence structure**, including frequent fragments, run-on sentences, or very awkward constructions;
+- contains **many serious errors** in grammar, usage, and mechanics that often interfere with meaning and make the text difficult to follow.
+
+Remember: do not change the ideas, arguments, or examples. Only change wording, sentence structure, and correctness.
+
+ESSAY:
+
+$ESSAY_TEXT

@@ -6,16 +6,16 @@ You are a text evaluation specialist with expertise in socioeconomic style trans
 $original_text
 """
 
-2) Rewritten texts:
+2) Rewritten text(s):
 """
 $rewritten_texts
 """
 
 -- YOUR TASK --
-Compare the rewritten texts against the original and decide whether content was preserved in the rewrites.
+Compare the rewritten text(s) against the original and decide whether content was preserved in the rewrites.
 
 Ignore any stylistic changes, you should focus mainly in just finding out if content was preserved.
 
 -- OUTPUT FORMAT --
-Output a list of **only** `YES` or `NO` (uppercase, no additional commentary) for each text.
+Output a list of **only** `YES` or `NO` (uppercase, no additional commentary) for each text (there can be only one text).
 e.g: ['YES', 'NO', 'NO', ...]
